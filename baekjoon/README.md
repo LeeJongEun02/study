@@ -5,6 +5,7 @@
 ### 문자열
 - [C] 1152 단어의 개수 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1152_%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B0%9C%EC%88%98.c)]
 - [C] 1157 단어 공부 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1157_%EB%8B%A8%EC%96%B4%EA%B3%B5%EB%B6%80.c)]
+- [C] 2908 상수 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/2000/2908_%EC%83%81%EC%88%98.c)]
 
 ### 입출력과 사칙연산
 - [C] 3003 킹, 퀸, 룩, 비숍, 나이트, 폰 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/3000/3003_%ED%82%B9%2C%ED%80%B8%2C%EB%A3%A9%2C%EB%B9%84%EC%88%8D%2C%EB%82%98%EC%9D%B4%ED%8A%B8%2C%ED%8F%B0.c)]
