@@ -3,6 +3,7 @@
 
 ## 단계별로 풀어보기
 ### 문자열
+- [C] 1152 단어의 개수 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1152_%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B0%9C%EC%88%98.c)]
 - [C] 1157 단어 공부 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1157_%EB%8B%A8%EC%96%B4%EA%B3%B5%EB%B6%80.c)]
 
 ### 입출력과 사칙연산
@@ -13,6 +14,6 @@
 - [Python] 8958 OX 퀴즈 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/8000/8958_OXQuiz.py)]
 
 ### 함수
-- [Python] 15596 정수 N개의 합 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/15000/15596_%EC%A0%95%EC%88%98N%EA%B0%9C%EC%9D%98%ED%95%A9.py)]
-- [Python] 4673 셀프 넘버 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/4000/4673_%EC%85%80%ED%94%84%EB%84%98%EB%B2%84.py)]
 - [Python] 1065 한수 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1065_%ED%95%9C%EC%88%98.py)]
+- [Python] 4673 셀프 넘버 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/4000/4673_%EC%85%80%ED%94%84%EB%84%98%EB%B2%84.py)]
+- [Python] 15596 정수 N개의 합 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/15000/15596_%EC%A0%95%EC%88%98N%EA%B0%9C%EC%9D%98%ED%95%A9.py)]
