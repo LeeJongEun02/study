@@ -21,4 +21,4 @@
 - [Python] 15596 정수 N개의 합 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/15000/15596_%EC%A0%95%EC%88%98N%EA%B0%9C%EC%9D%98%ED%95%A9.py)]
 
 ### 기본수학 1
-- [C] 1712 손익분 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.c)]
+- [C] 1712 손익분기점 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.c)]
