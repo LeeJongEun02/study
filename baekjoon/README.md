@@ -23,3 +23,4 @@
 ### 기본수학 1
 - [C] 1712 손익분기점 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/1000/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.c)]
 - [C] 2292 벌집 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/2000/2292_%EB%B2%8C%EC%A7%91.c)]
+- [C] 10250 ACM 호텔 [[링크](https://github.com/LeeJongEun02/study/blob/main/baekjoon/10000/10250_ACM%ED%98%B8%ED%85%94.c)]
